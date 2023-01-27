@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Sistemas de Informação na UFPE. Atualmente meu foco é aprender Javascript e Typescript, mas futuramente pretendo aprender React Native
+    Sou estudante de Sistemas de Informação na UFPE. Atualmente meu foco é aprender Javascript e Typescript, mas futuramente pretendo aprender React Native.
   </p>
  
   <div align="center">
