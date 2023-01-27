@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá, Tudo bem?😃️ Me chamo  
+    Olá, Tudo bem? Me chamo  
     <a href="https://www.linkedin.com/in/mateus-silva-82b311234/">Mateus da Silva 🙂</a>
   </h1>
   
