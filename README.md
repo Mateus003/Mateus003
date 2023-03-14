@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Sistemas de Informação na UFPE. Atualmente meu foco é aprender Kotlin.
+    Sou estudante de Sistemas de Informação na UFPE. Atualmente meu foco é desenvolver aplicativos nativos para Android com Kotlin, além aprender sobre UI/UX
   </p>
  
   <div align="center">
@@ -16,10 +16,19 @@
   </a>
 </div>
 <div align="center" valign="top"><br>
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Android_studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+  
+
+          
+          
+  
 </div><br>
   
 <div align="center">
