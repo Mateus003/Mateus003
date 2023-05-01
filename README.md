@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Sistemas de Informação na UFPE. Atualmente meu foco é desenvolver aplicativos nativos para Android com Kotlin, além aprender sobre UI/UX
+    Sou estudante de Sistemas de Informação na UFPE. Atualmente meu foco é desenvolver aplicativos nativos para Android com Kotlin
   </p>
  
   <div align="center">
