@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Mateus+da+Silva;I'm+19+years+old;I'm+an+Android+Developer;I'm+from+Olinda,+PE;I+study+Information+Systems+at+UFPE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Mateus+da+Silva;I'm+19+years+old;I'm+an+Software+Developer;I'm+from+Olinda,+PE;I+study+Information+Systems+at+UFPE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mateus003&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mateus da Silva github stats" /> 
