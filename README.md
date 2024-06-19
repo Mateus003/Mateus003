@@ -21,7 +21,6 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Sequelize](https://img.shields.io/badge/sequelize-%23121011.svg?style=for-the-badge&logo=sequelize&logoColor=#52B0E7)
- ![Mustache](https://img.shields.io/badge/mustache-%23F05032.svg?style=for-the-badge&logo=mustache&logoColor=white)
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
